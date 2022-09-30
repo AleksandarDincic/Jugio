@@ -1,0 +1,14 @@
+v0:
+-skewed test: 25/1000
+v1 trunc:
+-skewed test: 94/1000
+v2 sus:
+-skewed test: 168/1000
+v3:
+-skewed test: 114/1000
+v25:
+-straight test: 506/1000
+-proper: 472/1000
+v35:
+-straight test: 542/1000
+-proper: 488/1000
